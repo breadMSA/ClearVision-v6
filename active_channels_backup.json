@@ -1,7 +1,123 @@
 {
   "1376520346924224582": {
-    "messageHistory": [],
-    "model": "groq",
+    "messageHistory": [
+      {
+        "role": "assistant",
+        "content": "已加入語音頻道: 💬丨閒聊打屁",
+        "author": "Musica"
+      },
+      {
+        "role": "assistant",
+        "content": "",
+        "author": "Musica"
+      },
+      {
+        "role": "assistant",
+        "content": "已加入語音頻道: 💬丨閒聊打屁",
+        "author": "Musica"
+      },
+      {
+        "role": "assistant",
+        "content": "",
+        "author": "Musica"
+      },
+      {
+        "role": "assistant",
+        "content": "播放音樂時出錯: Spotify Data is missing\nDid you forgot to do authorization ?",
+        "author": "Musica"
+      },
+      {
+        "role": "assistant",
+        "content": "",
+        "author": "Musica"
+      },
+      {
+        "role": "assistant",
+        "content": "播放音樂時出錯: Spotify Data is missing\nDid you forgot to do authorization ?",
+        "author": "Musica"
+      },
+      {
+        "role": "assistant",
+        "content": "",
+        "author": "Musica"
+      },
+      {
+        "role": "assistant",
+        "content": "播放音樂時出錯: Spotify Data is missing\nDid you forgot to do authorization ?",
+        "author": "Musica"
+      },
+      {
+        "role": "assistant",
+        "content": "",
+        "author": "Musica"
+      },
+      {
+        "role": "assistant",
+        "content": "已加入語音頻道: 💬丨閒聊打屁",
+        "author": "Musica"
+      },
+      {
+        "role": "assistant",
+        "content": "播放音樂時出錯: Spotify Data is missing\nDid you forgot to do authorization ?",
+        "author": "Musica"
+      },
+      {
+        "role": "assistant",
+        "content": "",
+        "author": "Musica"
+      },
+      {
+        "role": "assistant",
+        "content": "已加入語音頻道: 💬丨閒聊打屁",
+        "author": "Musica"
+      },
+      {
+        "role": "assistant",
+        "content": "",
+        "author": "Musica"
+      },
+      {
+        "role": "assistant",
+        "content": "已加入語音頻道: 💬丨閒聊打屁",
+        "author": "Musica"
+      },
+      {
+        "role": "assistant",
+        "content": "播放音樂時出錯: Spotify Data is missing\nDid you forgot to do authorization ?",
+        "author": "Musica"
+      },
+      {
+        "role": "assistant",
+        "content": "",
+        "author": "Musica"
+      },
+      {
+        "role": "assistant",
+        "content": "已加入語音頻道: 💬丨閒聊打屁",
+        "author": "Musica"
+      },
+      {
+        "role": "assistant",
+        "content": "播放音樂時出錯: Spotify Data is missing\nDid you forgot to do authorization ?",
+        "author": "Musica"
+      },
+      {
+        "role": "assistant",
+        "content": "",
+        "author": "Musica"
+      },
+      {
+        "role": "assistant",
+        "content": "Alright nerds, I'm here to party! Ready to chat in <#1376520346924224582> using Groq (Llama-3.1) model~",
+        "author": "Musica"
+      },
+      {
+        "role": "user",
+        "content": "哈囉阿",
+        "author": "braidenexe"
+      }
+    ],
+    "model": "cerebras",
     "groqModel": "gemma2-9b-it",
     "cerebrasModel": "llama-4-scout-17b-16e-instruct"
   }
